@@ -11,3 +11,21 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal LP 11 dalam mata kuliah DPBO unt
 3. _Button Delete_ menghapus data yang dipilih.
 
 ## Dokumentasi
+### Add
+
+
+https://github.com/dauspairet/LP11DPBO2023C2/assets/100768773/9cb9a869-dbc1-4628-b3e8-a7903ca5117a
+
+
+### Edit
+
+
+https://github.com/dauspairet/LP11DPBO2023C2/assets/100768773/ef14a447-5ee7-440d-be8e-ea5276fc16e8
+
+
+### Delete
+
+
+
+https://github.com/dauspairet/LP11DPBO2023C2/assets/100768773/cd3db619-9bd1-49ee-a49a-4956845dd173
+
